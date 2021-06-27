@@ -1,5 +1,6 @@
 # Bus-Mangement-System 
 Reservation Bus Line Administration System (Simulator System by C++) : -
+
 Is system used by reservation bus companies in their stations to control the data of the  ( customers – buses ) at used databases that can be used locally or can be used by host server to share the databases among the stations of the company.
 
 Our system is secured as it has a locally one admin account that its data is Encrypted
