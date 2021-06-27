@@ -44,6 +44,7 @@ Main:-
 2.1) ADD New Bus Line:-
 
 This feature will made you add a new bus line to the main database.
+
     • Time is in 24 formats, there space between the hours & minutes entry.
     • Capacity must be entered as integer so any letters will break the process.
     • Journey code must be 4 characters without any space in entry. 
